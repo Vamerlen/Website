@@ -1,0 +1,25 @@
+body {
+    background-color: #FFC4C4;
+      }
+
+h1 {
+    color: #66BFBF;
+    font-family: "Blackadder ITC";
+    font-size: 40px;
+}
+
+h3 {
+    color: #A10035;
+    font-family: "Blackadder ITC";
+    font-size: 40px;
+}
+
+hr {
+    background-color: #FFC4C4;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #6c6c6c;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+      }
